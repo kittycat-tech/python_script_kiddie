@@ -1,8 +1,8 @@
 # python_script_kiddie
 
-## Folders:
+## Directories:
 
 ### python_baby
-    - contains coding activities from University of Colorado Boulder
+    - This directory contains my coding activities provided by the University of Colorado, Boulder.
 ### data_analysis
-    - contains data analysis activities from datacamp
+    - This directory contains my data analysis work, primarily using data sets from DataCamp's portfolio projects section
